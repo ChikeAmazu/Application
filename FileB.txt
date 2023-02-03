@@ -1,1 +1,3 @@
-This is FileA
+This is FileB
+This is the first Change
+This is the second change to FileB
